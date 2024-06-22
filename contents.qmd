@@ -1,0 +1,37 @@
+# Contents {.unnumbered}
+
+**Glossary**
+
+**Introduction: A Wake-Up Call**
+
+**Chapter 1: The Importance of a Secure Home Network** - Understanding the Risks - Your Home Network: The First Line of Defense\
+- Case Study: The Johnson Family
+
+**Chapter 2: Parental Control and Monitoring Tools: An Overview** - Why Parental Controls Matter - Types of Parental Control Tools - Balancing Safety and Privacy
+
+**Chapter 3: Free Parental Control Tools** - Built-In Operating System Controls - Kid-Safe Browsers - OpenDNS FamilyShield - Case Study: The Patel Family
+
+**Chapter 4: Paid Parental Control Software**\
+- Qustodio - Net Nanny - Bark - Comparison Chart
+
+**Chapter 5: Home Network Security Solutions** - Router-Based Parental Controls - Mesh Network Systems - Case Study: The Hernandez Family
+
+**Chapter 6: The Role of VPNs in Family Online Safety** - What is a VPN? - VPNs and Online Privacy - Choosing a Family-Friendly VPN
+
+**Chapter 7: Online Gaming and Livestreaming: Staying Safe** - The Risks of Online Gaming - Setting Gaming Ground Rules - Safer Livestreaming Practices
+
+**Chapter 8: The Threat of Data Brokers** - What Do Data Brokers Know About You? - The Risks of Data Brokering - How to Reduce Your Data Footprint
+
+**Chapter 9: Talking to Your Kids About Digital Safety** - Developmental Guidelines - Conversation Starters - Tackling Tough Topics
+
+**Chapter 10: Building Digital Resilience** - Encouraging Critical Thinking\
+- Teaching Empathy and Ethics - When to Seek Professional Help
+
+**Chapter 11: Putting It All Together: Your Family Online Safety Plan** - Assessing Your Family's Unique Needs - Creating a Family Technology Agreement - Regularly Revisiting and Adjusting Your Plan
+
+**Conclusion: Empowered Parenting in the Digital Age**
+
+**Appendix A: Clickable Resource Links**\
+**Appendix B: Worksheets and Conversation Guides**\
+**Endnotes**\
+**About the Author**

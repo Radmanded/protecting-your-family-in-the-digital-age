@@ -1,0 +1,23 @@
+# Foreword {.unnumbered}
+
+In today's interconnected world, our children are growing up with technology that we could only dream of a few decades ago. While this brings incredible opportunities, it also presents significant risks. This book is not just a guide but a companion in your journey to safeguard your family's digital life. It's about building trust, fostering open communication, and empowering your children to navigate the online world with confidence and responsibility.
+
+As a father, veteran, and IT professional with over two decades of experience, I've witnessed firsthand the rapidly evolving digital landscape and the challenges it presents for families. Through this book, I aim to share my knowledge and insights to help you create a safer online environment for your loved ones.
+
+We'll explore the importance of setting up a secure home network, dive into the world of parental controls and monitoring tools, discuss the role of VPNs in maintaining privacy, and unmask the hidden dangers of data brokers. Throughout the book, you'll find practical, actionable steps and recommendations for tools and strategies you can implement right away.
+
+But technology is just one piece of the puzzle. Equally important is fostering ongoing communication with your children about their online experiences and teaching them to be responsible digital citizens. We'll discuss how to have productive conversations about online safety at different ages and develop your children's critical thinking skills.
+
+By combining robust technological solutions with open dialogue and education, you can empower your family to confidently navigate the digital world while minimizing risks. It's my hope that this book will be a valuable resource and guide as you undertake this important journey.
+
+Remember, protecting your family online is an ongoing process, not a one-time task. Together, we can stay informed, proactive, and vigilant in the face of ever-evolving digital threats. Let's get started on building a safer digital world for our families.
+
+*RUBEN DEDMAN*
+
+*2024*
+
+### Dedication
+
+To my amazing wife and our six incredible children, who inspire me every day to work towards creating a safer and more positive digital world.
+
+And to all the parents out there who tirelessly strive to protect their families in this ever-changing digital landscape - this book is for you. Together, we can make a difference.

@@ -1,0 +1,47 @@
+project:
+  type: book
+  output-dir: _book
+
+book:
+  title: "Protecting Your Family in the Digital Age"
+  author: "Ruben Dedman"
+  date: "2024"
+  reader-mode: true
+  cover-image: cover.png
+  favicon: cover.jpg
+  site-url: https://puritywebs.com/
+  repo-url: https://github.com/Radmanded/protecting-your-family-in-the-digital-age.git
+  repo-branch: main
+  repo-actions: [edit, issue]
+  chapters:
+    - index.qmd
+    - foreword.qmd
+    - contents.qmd
+    - intro.qmd
+    - part: "Understanding the Digital Landscape"
+      chapters:
+        - chapter1.qmd
+        - chapter2.qmd
+    - part: "Tools and Strategies"
+      chapters:
+        - chapter3.qmd
+        - chapter4.qmd
+        - chapter5.qmd
+        - chapter6.qmd
+    - part: "Navigating Specific Challenges"
+      chapters:
+        - chapter7.qmd
+        - chapter8.qmd
+    - part: "Building Digital Resilience"
+      chapters:
+        - chapter9.qmd
+        - chapter10.qmd
+    - chapter11.qmd
+    - conclusion.qmd
+    - references.qmd
+
+format:
+  html:
+    theme: cosmo
+  pdf:
+    documentclass: scrreprt

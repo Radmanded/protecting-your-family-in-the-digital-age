@@ -1,0 +1,13 @@
+# Welcome {.unnumbered}
+
+This is the website for **"Protecting Your Family in the Digital Age: A Practical Guide for Parents"** by Ruben Dedman.
+
+In this book, you'll learn how to navigate the complex digital landscape and keep your family safe online. You'll discover how to set up a secure home network, implement effective parental controls, and foster healthy online habits for your children.
+
+Just as we teach our children to be safe in the physical world, this book will equip you with the knowledge and tools to ensure their safety in the digital realm. You'll find practical advice, real-world examples, and step-by-step guides to implement robust online safety measures.
+
+You'll learn how to: - Secure your home network against cyber threats - Choose and set up appropriate parental control software - Protect your family's privacy from data brokers and other online risks - Navigate the challenges of online gaming and social media - Have meaningful conversations with your children about digital safety You can find additional resources and updates related to the book at <https://puritywebs.com>.
+
+## Acknowledgements {.unnumbered}
+
+This book would not have been possible without the support of my family, colleagues, and the many security mentors who shared their experiences about protecting children in the digital age.
